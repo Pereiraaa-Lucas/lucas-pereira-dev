@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./Foto.jpg" width="300" alt="Lucas Pereira" style="border-radius: 10px; border: 2px solid #A64CBF;" />
+  https://share.text-image.com/c620cff26c3cccb7
 </p>
 
 <h3 align="center">👋 Olá, sou o Lucas Pereira!</h3>
