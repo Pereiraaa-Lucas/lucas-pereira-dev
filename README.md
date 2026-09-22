@@ -5,57 +5,33 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=lucas@github:~%23+Profile+Overview;"/>
-</p>
-
-<p align="center">
 <pre><code>
-5555555YYYYYYYYYYYYJJJJYYYYYYYJ77777YYYYYYYYYYYYYYYYYYYYYYYY
-555555YYYYYYYYYYYJ~^~^!JJJJJJJ5?~^^~!!7?YYYYYYYYYYYYYYYYYYYY
-55555YYYYYYYYYJJJ?^^^^~JJJYYJY5Y7~~^^^~~7JYYYYYYYYYYYYYYYYYY
-5555YYYYYYYYYYJJJ7^^^^^7JJJYYYYYJ!~~^^^^^~7JYYYYYYYYYYYYYYYY
-555555YYYYYYYY77?!^^^^^!JJJJYYYYY?!!~^^^^^^~?YYYYYYYYYYYYYYY
-Y55Y5YYYYYYYJ7??J!^^^^^^7???JJJJ?7777~^^^^^~~!?YYYYYYYYYYYYY
-YY55YYYYYYYYJJJYY~:^^^^~????????7!!!77?7!~^^^~7??YYYYYYYYYYJ
-YYYYYYYYYYYYJJJYY~:^^~!7J?????????????????7!~^^~!7?YYYYYYYJJ
-YYYYYYYYYYYJ?7???^^^~!!7?JJ??????????????????7!~^~!7?JYYYJJY
-YYYYYYYYYYY777??7^~!!!!7?JJ?????????????????????7!~~~7YY5J55
-YYYYYYYYYYJ777??7!!!!!777?J???J??JJ??????77777?77???J55PPPP5
-YYYYYYYYYY7777???!!!!!!77??????JJ5YJ???????777777?JPP5PGPPP5
-YYYYYYYYYJ?JYYYY?!!!!!!777?JJJY5GGGP555YJJ?????77?YGGPPGGPPP
-YYYYYYYYYJJ??JJY7!!!!!!7!JPGGGP5555PPPGGPP5J??J???YPGGGGGPGG
-YYYYYYYYYJJJJJJJ7!!!!!!!JGGPP55J????777?JY5P5J??JJJGGGGGGGGG
-YYYYYYYYJ?JJJYYY7!!!!!!JP5YYYYJJ?7777!!~~~!75PJ?JJYGGGPGGGGG
-YYYYYYYYJJJJJJJJ!!!!7??5YYYJJYJJJ?7!!~~!!~~^!J?J5Y5PGGGGGGGG
-YYYYYYYY?7!7???7!!!?YYYYYYJJJYYYYYYYY?~~~~~!~?Y5P55PGGGGGGGG
-YYYYYYY7!!!7???7!!7YY5JJJJJJJY5PP555YYJ77!~~!!5PPPPPPPGGGGGG
-YYYYYY?77!!!!777!!7JYJJJJJJJ??JY5555Y7?YY5J7!?55PPGGP55Y55YY
-YYYYYY777!7JJJ?77?JJJJJ??????7!!7J?77~?PPYYJ?JY55P55P5YYYYJJ
-YYYYYJ777!777??7?J???J????????7?JJJ?7~!YYYJ?YYY55YJY555P5YJY
-YYYYY777!!!!!777777?J???J?JJYJJYY55Y??!~!!7YJJJY5555YY5PPYYY
-YYYYJ777!7??JJ??JY5J????JJJ55YY55YYJ?7?!~!JJ???J55P5555PGPYY
-YYYY7777!7JJJJ??J55JJJJJJJJY5YYJJYJ?77?77J55PPPP555PYG55PPPP
-YYYJ777777!777777?JJJJYYJJJJJYYJ??YYJ???YPPGGGGP55GGYGP55GGG
-YYY?77777!7!777!7JJJJJ5P5YJJJYYJ?77??J555PPPGGPPPPPGPPGGBBBG
-YYJ77777??JJYY?7JJJJYYY5PP5JJ??777?Y55555PPPPPPPPPPPGP5GBGGG
-YY??YPPGPGPGGGYJYJJYYYYY5PPP5YJJ?YPP5555555P5PPPPGPPPGPGBBGG
-YJYPPPPP555555YYYYYYYYYYJYYY5YJ7?5PP5P5555555PPP5PP55PPGBBBB
-5P5J777777JYYYYYYYYYYYYJJJ?7!!~!5PPP55P5P55YJYPP55GPPPGPBBBB
-PGPYJ????JJJJJYYYYYYYYYYJ7!~~~~!Y55555PPYYYYYY5P55PGPGGGGBBG
-B##&#PJJJJJ??JJ??????7!!~~~~~~~7?5PPP5J?JYJJ5YY5YG5YPPBBBBB
-PPB#G5J?777!~~~~~~~~~~~~~~~~~~^~^^~7?JJJ?JJYY55Y5Y55YY5PBGG#
-Y5P5?!!!~!!!~~~~~~~~~~~~~~~~~^^^^^^^^^?5P5Y5PP55J5YY5Y5Y55YP
-GG5?~^~~~!!!!~^^~~~~~~~~~~~~^^^^^~~~~^~5GG5JY5YYY55Y5JY5Y5JJ
-P5YJ7~^~!!!!!~~^^~~~~~~~!!!~~^^^^^~!!~~7PGPY?YYYYYJYJ7JYYYJJ
-!?JYY!^~!!!77!~^^~~~~~~!!!7!~~^^^^^~~!7?5GGG?YYYYJ!YY!!JPPYJ
+🟢 🟡 🔴  lucas@github: ~
+---------------------------------------------------------------------------------------------------
+┌──────────────────────────────────────────────┬──────────────────────────────────────────────────┐
+│                                              │ 💻 whoami                                        │
+│  5555555YYYYYYYYYYYYJJJJYYYYYYYJ777777       │ ────────────────────────                         │
+│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │ Profile:                                         │
+│  555555YYYYYYYYYYYJ~^~^!JJJJJJJ5?~^^~!!      │   • Role: Front-End Student & Dev                │
+│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │   • Course: ADS (Previsão: Jul/2028)             │
+│  55555YYYYYYYYYJJJ?^^^^~JJJYYJY5Y7~~^^       │   • Focus: Front-End & Support Júnior            │
+│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │                                                  │
+│  5555YYYYYYYYYYJJJ7^^^^^7JJJYYYYYJ!~~^       │ 🛠️ Stack & Technologies:                         │
+│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │   • Languages: HTML5, CSS3, JS, TS, Python       │
+│  555555YYYYYYYY77?!^^^^^!JJJJYYYYY?!!~       │   • Frameworks: React.js, Next.js, Tailwind      │
+│  Y55Y5YYYYYYYJ7??J!^^^^^^7???JJJJ?777        │   • Tools: Git, GitHub, VS Code                  │
+│  YY55YYYYYYYYJJJYY~:^^^^~????????7!!!        │                                                  │
+│  YYYYYYYYYYYYJJJYY~:^^~!7J????????????       │ 🎯 Goal:                                         │
+│  YYYYYYYYYYYJ?7???^^^~!!7?JJ??????????       │   • Seek first opportunity as Front-End          │
+│  YYYYYYYYYYY777??7^~!!!!7?JJ??????????       │     Intern or Junior Support.                    │
+│  YYYYYYYYYYJ777??7!!!!!777?J???J??JJJ        │                                                  │
+│  YYYYYYYYYY7777???!!!!!!77??????JJ5YJ        │ 🚀 Curiosity                                     │
+│  YYYYYYYYYJ?JYYYY?!!!!!!777?JJJY5GGGP        │   drives • everything ✨                         │
+│  YYYYYYYYYJJ??JJY7!!!!!!7!JPGGGP5555P        │                                                  │
+│  YYYYYYYYYJJJJJJJ7!!!!!!!JGGPP55J????        │                                                  │
+└──────────────────────────────────────────────┴──────────────────────────────────────────────────┘
 </code></pre>
 </p>
-
-<div align="center">
-  <p><b>🎓 Curso:</b> Análise e Desenvolvimento de Sistemas (ADS) | Previsão: <b>Julho de 2028</b></p>
-  <p><b>💻 Stack:</b> HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Python</p>
-  <p><b>🎯 Foco:</b> Estágio Front-End / Suporte Júnior</p>
-</div>
 
 ---
 
@@ -76,7 +52,7 @@ P5YJ7~^~!!!!!~~^^~~~~~~~!!!~~^^^^^~!!~~7PGPY?YYYYYJYJ7JYYYJJ
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-pereira" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </h3>
