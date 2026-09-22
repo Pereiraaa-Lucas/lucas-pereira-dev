@@ -1,16 +1,20 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=750&lines=SYSTEM+BOOTING...;FRONT-END+DEVELOPER;HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;EXPLORING+THE+CODE+UNIVERSE..."/>
 </p>
+
 ---
 
-| 💻 Terminal Profile | 📋 Informações do Sistema |
-| :--- | :--- |
-| <pre><code>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=lucas@github:~%23+Profile+Overview;"/>
+</p>
+
+<p align="center">
+<pre><code>
 5555555YYYYYYYYYYYYJJJJYYYYYYYJ77777YYYYYYYYYYYYYYYYYYYYYYYY
 555555YYYYYYYYYYYJ~^~^!JJJJJJJ5?~^^~!!7?YYYYYYYYYYYYYYYYYYYY
 55555YYYYYYYYYJJJ?^^^^~JJJYYJY5Y7~~^^^~~7JYYYYYYYYYYYYYYYYYY
 5555YYYYYYYYYYJJJ7^^^^^7JJJYYYYYJ!~~^^^^^~7JYYYYYYYYYYYYYYYY
-555555YYYYYYY?77?!^^^^^!JJJJYYYYY?!!~^^^^^^~?YYYYYYYYYYYYYYY
+555555YYYYYYYY77?!^^^^^!JJJJYYYYY?!!~^^^^^^~?YYYYYYYYYYYYYYY
 Y55Y5YYYYYYYJ7??J!^^^^^^7???JJJJ?7777~^^^^^~~!?YYYYYYYYYYYYY
 YY55YYYYYYYYJJJYY~:^^^^~????????7!!!77?7!~^^^~7??YYYYYYYYYYJ
 YYYYYYYYYYYYJJJYY~:^^~!7J?????????????????7!~^^~!7?YYYYYYYJJ
@@ -38,28 +42,33 @@ YY??YPPGPGPGGGYJYJJYYYYY5PPP5YJJ?YPP5555555P5PPPPGPPPGPGBBGG
 YJYPPPPP555555YYYYYYYYYYJYYY5YJ7?5PP5P5555555PPP5PP55PPGBBBB
 5P5J777777JYYYYYYYYYYYYJJJ?7!!~!5PPP55P5P55YJYPP55GPPPGPBBBB
 PGPYJ????JJJJJYYYYYYYYYYJ7!~~~~!Y55555PPYYYYYY5P55PGPGGGGBBG
-B##&#PJJJJJ??JJ??????77!!~~~~~~~7?5PPP5J?JYJJ5YY5YG5YPPBBBBB
+B##&#PJJJJJ??JJ??????7!!~~~~~~~7?5PPP5J?JYJJ5YY5YG5YPPBBBBB
 PPB#G5J?777!~~~~~~~~~~~~~~~~~~^~^^~7?JJJ?JJYY55Y5Y55YY5PBGG#
 Y5P5?!!!~!!!~~~~~~~~~~~~~~~~~^^^^^^^^^?5P5Y5PP55J5YY5Y5Y55YP
 GG5?~^~~~!!!!~^^~~~~~~~~~~~~^^^^^~~~~^~5GG5JY5YYY55Y5JY5Y5JJ
 P5YJ7~^~!!!!!~~^^~~~~~~~!!!~~^^^^^~!!~~7PGPY?YYYYYJYJ7JYYYJJ
 !?JYY!^~!!!77!~^^~~~~~~!!!7!~~^^^^^~~!7?5GGG?YYYYJ!YY!!JPPYJ
- </code></pre> | **lucas@github:~#**<br>----------------------------------------<br>**Role:** Front-End Developer & Student<br>**Degree:** Análise e Desenvolvimento de Sistemas (ADS)<br>**Expected Graduation:** July 2028<br><br>**Tech Stack:**<br>• Front-End: HTML5, CSS3, JS, TS, React, Next.js, Tailwind<br>• Logic & Languages: Python<br><br>**Goal:**<br>First opportunity as Front-End Intern or Junior Developer. |
+</code></pre>
+</p>
+
+<div align="center">
+  <p><b>🎓 Curso:</b> Análise e Desenvolvimento de Sistemas (ADS) | Previsão: <b>Julho de 2028</b></p>
+  <p><b>💻 Stack:</b> HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Python</p>
+  <p><b>🎯 Foco:</b> Estágio Front-End / Suporte Júnior</p>
+</div>
 
 ---
-<h3 align="center">👋 Olá, sou o Lucas Pereira!</h3>
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) com previsão de formação para julho de 2028. <br>
-  Apaixonado por tecnologia e focado em transformar ideias em soluções digitais modernas, eficientes e acessíveis. 🚀
-</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,python,git,vscode" />
   </a>
 </p>
+
 <h3 align="center">
   🔗 <b>Connect with me:</b>
   <br><br>
@@ -67,11 +76,13 @@ P5YJ7~^~!!!!!~~^^~~~~~~~!!!~~^^^^^~!!~~7PGPY?YYYYYJYJ7JYYYJJ
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-pereira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </h3>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Check+out+my+projects%3A;Follow+my+journey%3A;"/>
 </p>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
