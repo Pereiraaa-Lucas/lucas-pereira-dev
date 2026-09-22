@@ -11,24 +11,43 @@
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────────┐
 │                                              │ 💻 whoami                                        │
 │  5555555YYYYYYYYYYYYJJJJYYYYYYYJ777777       │ ────────────────────────                         │
-│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │ Profile:                                         │
-│  555555YYYYYYYYYYYJ~^~^!JJJJJJJ5?~^^~!!      │   • Role: Front-End Student & Dev                │
-│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │   • Course: ADS (Previsão: Jul/2028)             │
-│  55555YYYYYYYYYJJJ?^^^^~JJJYYJY5Y7~~^^       │   • Focus: Front-End & Support Júnior            │
-│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │                                                  │
-│  5555YYYYYYYYYYJJJ7^^^^^7JJJYYYYYJ!~~^       │ 🛠️ Stack & Technologies:                         │
-│  YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY        │   • Languages: HTML5, CSS3, JS, TS, Python       │
-│  555555YYYYYYYY77?!^^^^^!JJJJYYYYY?!!~       │   • Frameworks: React.js, Next.js, Tailwind      │
-│  Y55Y5YYYYYYYJ7??J!^^^^^^7???JJJJ?777        │   • Tools: Git, GitHub, VS Code                  │
-│  YY55YYYYYYYYJJJYY~:^^^^~????????7!!!        │                                                  │
-│  YYYYYYYYYYYYJJJYY~:^^~!7J????????????       │ 🎯 Goal:                                         │
-│  YYYYYYYYYYYJ?7???^^^~!!7?JJ??????????       │   • Seek first opportunity as Front-End          │
-│  YYYYYYYYYYY777??7^~!!!!7?JJ??????????       │     Intern or Junior Support.                    │
+│  555555YYYYYYYYYYYJ~^~^!JJJJJJJ5?~^^~!!      │ Profile:                                         │
+│  55555YYYYYYYYYJJJ?^^^^~JJJYYJY5Y7~~^^       │   • Role: Front-End Student & Dev                │
+│  5555YYYYYYYYYYJJJ7^^^^^7JJJYYYYYJ!~~^       │   • Course: ADS (Previsão: Jul/2028)             │
+│  555555YYYYYYYY77?!^^^^^!JJJJYYYYY?!!~       │   • Focus: Front-End & Support Júnior            │
+│  Y55Y5YYYYYYYJ7??J!^^^^^^7???JJJJ?777        │                                                  │
+│  YY55YYYYYYYYJJJYY~:^^^^~????????7!!!        │ 🛠️ Stack & Technologies:                         │
+│  YYYYYYYYYYYYJJJYY~:^^~!7J????????????       │   • Languages: HTML5, CSS3, JS, TS, Python       │
+│  YYYYYYYYYYYJ?7???^^^~!!7?JJ??????????       │   • Frameworks: React.js, Next.js, Tailwind      │
+│  YYYYYYYYYYY777??7^~!!!!7?JJ??????????       │   • Tools: Git, GitHub, VS Code                  │
 │  YYYYYYYYYYJ777??7!!!!!777?J???J??JJJ        │                                                  │
-│  YYYYYYYYYY7777???!!!!!!77??????JJ5YJ        │ 🚀 Curiosity                                     │
-│  YYYYYYYYYJ?JYYYY?!!!!!!777?JJJY5GGGP        │   drives • everything ✨                         │
-│  YYYYYYYYYJJ??JJY7!!!!!!7!JPGGGP5555P        │                                                  │
+│  YYYYYYYYYY7777???!!!!!!77??????JJ5YJ        │ 🎯 Goal:                                         │
+│  YYYYYYYYYJ?JYYYY?!!!!!!777?JJJY5GGGP        │   • Seek first opportunity as Front-End          │
+│  YYYYYYYYYJJ??JJY7!!!!!!7!JPGGGP5555P        │     Junior or Intern.                            │
 │  YYYYYYYYYJJJJJJJ7!!!!!!!JGGPP55J????        │                                                  │
+│  YYYYYYYYJ?JJJYYY7!!!!!!JP5YYYYJJ?7777       │ 🚀 Curiosity                                     │
+│  YYYYYYYYJJJJJJJJ!!!!7??5YYYJJYJJJ?7!!       │   drives • everything ✨                         │
+│  YYYYYYYY?7!7???7!!!?YYYYYYJJJYYYYYYY        │                                                  │
+│  YYYYYYY7!!!7???7!!7YY5JJJJJJJY5PP555        │                                                  │
+│  YYYYYY?77!!!!777!!7JYJJJJJJJ??JY5555        │                                                  │
+│  YYYYYY777!7JJJ?77?JJJJJ??????7!!7J?7        │                                                  │
+│  YYYYYJ777!777??7?J???J????????7?JJJ?        │                                                  │
+│  YYYYY777!!!!!777777?J???J?JJYJJYY55Y        │                                                  │
+│  YYYYJ777!7??JJ??JY5J????JJJ55YY55YYJ        │                                                  │
+│  YYYY7777!7JJJJ??J55JJJJJJJJY5YYJJYJ?        │                                                  │
+│  YYYJ777777!777777?JJJJYYJJJJJYYJ??YY        │                                                  │
+│  YYY?77777!7!777!7JJJJJ5P5YJJJYYJ?77?        │                                                  │
+│  YYJ77777??JJYY?7JJJJYYY5PP5JJ??777?         │                                                  │
+│  YY??YPPGPGPGGGYJYJJYYYYY5PPP5YJJ?YP         │                                                  │
+│  YJYPPPPP555555YYYYYYYYYYJYYY5YJ7?5P         │                                                  │
+│  5P5J777777JYYYYYYYYYYYYJJJ?7!!~!5PP         │                                                  │
+│  PGPYJ????JJJJJYYYYYYYYYYJ7!~~~~!Y55         │                                                  │
+│  B##&#PJJJJJ??JJ??????7!!~~~~~~~7?5P         │                                                  │
+│  PPB#G5J?777!~~~~~~~~~~~~~~~~~~^~^^~         │                                                  │
+│  Y5P5?!!!~!!!~~~~~~~~~~~~~~~~~^^^^^^         │                                                  │
+│  GG5?~^~~~!!!!~^^~~~~~~~~~~~~^^^^^~~         │                                                  │
+│  P5YJ7~^~!!!!!~~^^~~~~~~~!!!~~^^^^^~         │                                                  │
+│  !?JYY!^~!!!77!~^^~~~~~~!!!7!~~^^^^^         │                                                  │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────────┘
 </code></pre>
 </p>
