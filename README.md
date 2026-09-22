@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GitHub.png" alt="Lucas Pereira Terminal Profile" width="100%" style="border-radius: 8px;" />
+  <img src="./GitHub.png" alt="Terminal" width="100%"/>
 </p>
 
 <p align="center">
