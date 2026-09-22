@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="GitHub.png" alt="Terminal" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
+  <img src="GitHub.png" alt="Terminal" width="70%"/>
 </p>
 
 <p align="center">
