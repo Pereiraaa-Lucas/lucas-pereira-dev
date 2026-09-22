@@ -8,7 +8,15 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
+<img src=https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
 </p>
 
 <p align="center">
@@ -30,7 +38,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Check+out+my+projects%3A;Follow+my+journey%3A;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Follow+my+journey%3A;"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
