@@ -1,10 +1,9 @@
 <p align="center">
-  <img src=https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=750&lines=SYSTEM+BOOTING...;FRONT-END+DEVELOPER;HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;EXPLORING+THE+CODE+UNIVERSE...%22/%3E..."/>
+  <img src="GitHub.png" alt="Terminal" width="70%"/>
 </p>
 
----
-
-  <img src="GitHub.png" alt="Terminal" width="70%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
 </p>
 
 <p align="center">
@@ -12,7 +11,9 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;FRONT-END+DEVELOPER;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,python,git,vscode" />
+  </a>
 </p>
 
 <h3 align="center">
