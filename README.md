@@ -19,12 +19,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=5000&color=FF7A00&center=true&vCenter=true&width=700&lines=Core+Skills+%26+Tech+Stack%3A;"/>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,python,git,vscode" />
-  </a>
-</p>
-
 <h3 align="center">
   🔗 <b>Connect with me:</b>
   <br><br>
