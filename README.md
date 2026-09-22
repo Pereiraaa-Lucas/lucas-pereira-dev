@@ -1,4 +1,9 @@
 <p align="center">
+  <img src=https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=750&lines=SYSTEM+BOOTING...;FRONT-END+DEVELOPER;HTML5+%7C+CSS3+%7C+JS+%7C+REACT+%7C+NEXT.JS;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;EXPLORING+THE+CODE+UNIVERSE...%22/%3E..."/>
+</p>
+
+---
+
   <img src="GitHub.png" alt="Terminal" width="70%"/>
 </p>
 
